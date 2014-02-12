@@ -1,4 +1,0 @@
-SUBDIRS = src
-
-AM_GNU_GETTEXT_VERSION([0.17])
-AM_GNU_GETTEXT([external])
