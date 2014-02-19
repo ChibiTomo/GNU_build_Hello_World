@@ -1,5 +1,5 @@
 #include <config.h>
-#include <stdio.h>>
+#include <stdio.h>
 
 #include "gettext.h"
 #define _(string) gettext (string)
